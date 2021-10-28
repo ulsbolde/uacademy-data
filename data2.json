@@ -1,9 +1,9 @@
 [{
 	"id": 1,
-	"category": "SwiftUI",
+	"category": "Англи хэл: Дуудлага авиа",
 	"content": {
 		"id": 0,
-		"image": "swiftUI",
+		"image": "english",
 		"time": "2 hours",
 		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
 		"lessons": [{
@@ -73,7 +73,7 @@
 	},
 	"test": {
 		"id": 0,
-		"image": "swiftUI",
+		"image": "english",
 		"time": "30 minutes",
 		"description": "Test your knowledge of SwiftUI.",
 		"questions": [{
