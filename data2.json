@@ -330,51 +330,128 @@
 			},
 			{
 				"id": 13,
-				"title": "Зарим үсэглэл, хос эгшиг",
-				"video": "jPiuCDVTKTI",
-				"duration": "7' 45\"",
+				"title": "Дүрэм: -입니다 / -이예요 / -예요",
+				"video": "hCnt3yx3Qdc",
+				"duration": "8' 47\"",
 				"explanation": "Тайлбар"
 			},
 			{
 				"id": 14,
-				"title": "'y' төгсгөл + эгшигт дагавар, зарим шинэ авиа",
-				"video": "KVwsa9nz2xw",
-				"duration": "7' 14\"",
+				"title": "Дүрэм: -입니까? / -이예요? / -예요?",
+				"video": "TJ_fT6bB1jI",
+				"duration": "6' 8\"",
 				"explanation": "Тайлбар"
 			},
 			{
 				"id": 15,
-				"title": "3 гийгүүлэгчтэй эхлэл, 'богино' эгшгийн бусад үсэглэл",
-				"video": "iTSpwkahcTg",
-				"duration": "15' 3\"",
+				"title": "Дүрэм: -이 / -가 아닙니다 / 아니에요",
+				"video": "Zq9akKWN2yY",
+				"duration": "5' 52\"",
 				"explanation": "Тайлбар"
 			},
 			{
 				"id": 16,
-				"title": "Товчлол, дуудагддаггүй үсгүүд",
-				"video": "AKXuu55IZ8E",
-				"duration": "9' 1\"",
+				"title": "Дүрэм: -이 / -가",
+				"video": "EH9kYJH61mE",
+				"duration": "9' 59\"",
 				"explanation": "Тайлбар"
 			},
 			{
 				"id": 17,
-				"title": "Урт 'a' авианы бусад үсэглэл, 's', 'ph', 'gh', 'ch' авиа",
-				"video": "jgfPSiomvKk",
-				"duration": "5' 34\"",
+				"title": "Дүрэм: Үйл үг, тэмдэг нэрийн одоо цаг",
+				"video": "SfwM3R9Cg64",
+				"duration": "22' 1\"",
 				"explanation": "Тайлбар"
 			},
 			{
 				"id": 18,
-				"title": "'r' үсгээр хувирах бусад авиа, бусад анхаарах зүйлс",
-				"video": "_HbMFFvzwx8",
-				"duration": "16' 14\"",
+				"title": "Дүрэм: Үйл үг, тэмдэг нэрийн өнгөрсөн цаг",
+				"video": "91AVv4pDx5c",
+				"duration": "10' 38\"",
 				"explanation": "Тайлбар"
 			},
 			{
 				"id": 19,
-				"title": "'-ed' дагаварын дуудлага",
-				"video": "k6VpqWIM9Io",
-				"duration": "4' 58\"",
+				"title": "Дүрэм: Үйл үгийн ирээдүй цагийн нөхцөл",
+				"video": "GMDBusgQuCU",
+				"duration": "9' 18\"",
+				"explanation": "Тайлбар"
+			},
+			{
+				"id": 20,
+				"title": "Дүрэм: Заахын тийн ялгал",
+				"video": "bqEKJAtsyto",
+				"duration": "6' 22\"",
+				"explanation": "Тайлбар"
+			},
+			{
+				"id": 21,
+				"title": "Дүрэм: Харьяалахын тийн ялгал",
+				"video": "5B9E9OOQ3K4",
+				"duration": "8' 19\"",
+				"explanation": "Тайлбар"
+			},
+			{
+				"id": 22,
+				"title": "Дүрэм: Нэр үгийн өнгөрсөн цаг",
+				"video": "70iKT_k62ow",
+				"duration": "4' 44\"",
+				"explanation": "Тайлбар"
+			},
+			{
+				"id": 23,
+				"title": "Дүрэм: 에서 / 에",
+				"video": "KpvVhjkkPu8",
+				"duration": "8' 18\"",
+				"explanation": "Тайлбар"
+			},
+			{
+				"id": 24,
+				"title": "Дүрэм: Үйл үг, тэмдэг нэрийн одоо/өнгөрсөн цагийн асуух хэлбэр",
+				"video": "TzxsATq6CKA",
+				"duration": "17' 3\"",
+				"explanation": "Тайлбар"
+			},
+			{
+				"id": 25,
+				"title": "Дүрэм: Үйл үгийн ирээдүй цагийн нөхцөл",
+				"video": "b8lTw-RcuN4",
+				"duration": "15' 29\"",
+				"explanation": "Тайлбар"
+			},
+			{
+				"id": 26,
+				"title": "Дүрмийн бус үгс: 'ㅡ' 불규칙",
+				"video": "ujXM7acuxXk",
+				"duration": "11' 45\"",
+				"explanation": "Тайлбар"
+			},
+			{
+				"id": 27,
+				"title": "Дүрмийн бус үгс: 'ㄷ' 불규칙",
+				"video": "lPog2diteAQ",
+				"duration": "11' 38\"",
+				"explanation": "Тайлбар"
+			},
+			{
+				"id": 28,
+				"title": "Дүрмийн бус үгс: 'ㅂ' 불규칙",
+				"video": "xoA9QY_mJqU",
+				"duration": "13' 24\"",
+				"explanation": "Тайлбар"
+			},
+			{
+				"id": 29,
+				"title": "Дүрэм: Үйл үг, тэмдэг нэрийн ирээдүй цагийн нөхцөл (Асуух)",
+				"video": "OVCZYrFvnAw",
+				"duration": "7' 47\"",
+				"explanation": "Тайлбар"
+			},
+			{
+				"id": 30,
+				"title": "Дүрэм: Өгөх, оршихын тийн ялгал",
+				"video": "5tBaCOefDWI",
+				"duration": "8' 50\"",
 				"explanation": "Тайлбар"
 			}
 		]
