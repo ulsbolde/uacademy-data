@@ -234,21 +234,21 @@
 	"category": "Солонгос хэл",
 	"content": {
 		"id": 0,
-		"image": "piano",
+		"image": "korean",
 		"time": "2 hours",
 		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
 		"lessons": [{
 				"id": 0,
-				"title": "Англи хэл: Цагаан толгой",
-				"video": "VqBXH2iymy8",
-				"duration": "8' 53\"",
+				"title": "Эхлэл",
+				"video": "7OYOoy4Y334",
+				"duration": "6' 38\"",
 				"explanation": "<p>Declare your app by creating a structure that conforms to the App protocol and add one or more scenes to it. You can use built-in scenes, like WindowGroup, or you can compose custom scenes that conform to the Scene protocol. Scenes contain the view hierarchies that define the user interface of your app, and have a life cycle that the system manages.</p>"
 			},
 			{
 				"id": 1,
-				"title": "Эгшиг үсгийн богино дуудлага авиа",
-				"video": "o0EtJkN2MBI",
-				"duration": "7' 10\"",
+				"title": "Эгшиг үсэг",
+				"video": "aDt_vRgtqu0",
+				"duration": "7' 16\"",
 				"explanation": "<p>Views and controls are the visual building blocks of your app's user interface. Use them to present your app's content onscreen. Views represent text, images, shapes, custom drawings, and compositions of any and all of these together. Controls enable user interaction with consistent APIs that adapt to their platform and context. Combine views using containers that specify their visual relationships and hierarchy. Use methods called modifiers to customize the display, behavior, and interactivity of built-in views and those you create for your app.</p>"
 			},
 			{
