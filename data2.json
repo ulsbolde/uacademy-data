@@ -1,539 +1,154 @@
-[{
-	"id": 1,
-	"category": "Англи хэл: Дуудлага авиа",
-	"content": {
-		"id": 0,
-		"image": "english",
-		"time": "2 hours",
-		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
-		"lessons": [{
-				"id": 0,
-				"title": "Англи хэл: Цагаан толгой",
-				"video": "VqBXH2iymy8",
-				"duration": "8' 53\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 1,
-				"title": "Эгшиг үсгийн богино дуудлага авиа",
-				"video": "o0EtJkN2MBI",
-				"duration": "7' 10\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 2,
-				"title": "Гийгүүлэгч үсгийн дуудлага авиа",
-				"video": "SaBtpon5o64",
-				"duration": "11' 37\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 3,
-				"title": "3 үсэгтэй үгс",
-				"video": "6F6vV7_GcMY",
-				"duration": "5' 35\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 4,
-				"title": "'k' үсгийн авиа, 'богино' үгс 2 гийгүүлэгчээр төгсөх",
-				"video": "Vw3YUQ-hiRE",
-				"duration": "11' 4\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 5,
-				"title": "'-y' дагавар, 2 ижил гийгүүлэгчээр төгсөх, 2 гийгүүлэгчийн шинэ авиа",
-				"video": "wbA-ngTLsi8",
-				"duration": "14' 59\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 6,
-				"title": "Эгшиг үсгийн урт дуудлага авиа",
-				"video": "hqAerfcDShk",
-				"duration": "17' 40\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 7,
-				"title": "'Богино' эгшигтэй үгсийн дагаварууд",
-				"video": "J72NyYVo-Fg",
-				"duration": "11' 57\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 8,
-				"title": "'Урт' эгшигтэй үгсийн дагаварууд",
-				"video": "6Pfs_MvT5Z4",
-				"duration": "3' 35\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 9,
-				"title": "Олон үетэй үгс, зарим төгсгөлүүд, 'ks', 'gz' авиа",
-				"video": "PzoLcbU3ILg",
-				"duration": "20' 32\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 10,
-				"title": "Нийлэмж авианы эхлэл, 2 гийгүүлэгчийн эхлэл",
-				"video": "mvJlWQxmwRs",
-				"duration": "13' 31\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 11,
-				"title": "'r' үсгээр хувирах 'урт' эгшиг",
-				"video": "cg1FcIyJJPk",
-				"duration": "8' 50\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 12,
-				"title": "Нийлэмж урт эгшиг",
-				"video": "9q3HdQFkvbk",
-				"duration": "7' 9\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 13,
-				"title": "Зарим үсэглэл, хос эгшиг",
-				"video": "jPiuCDVTKTI",
-				"duration": "7' 45\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 14,
-				"title": "'y' төгсгөл + эгшигт дагавар, зарим шинэ авиа",
-				"video": "KVwsa9nz2xw",
-				"duration": "7' 14\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 15,
-				"title": "3 гийгүүлэгчтэй эхлэл, 'богино' эгшгийн бусад үсэглэл",
-				"video": "iTSpwkahcTg",
-				"duration": "15' 3\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 16,
-				"title": "Товчлол, дуудагддаггүй үсгүүд",
-				"video": "AKXuu55IZ8E",
-				"duration": "9' 1\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 17,
-				"title": "Урт 'a' авианы бусад үсэглэл, 's', 'ph', 'gh', 'ch' авиа",
-				"video": "jgfPSiomvKk",
-				"duration": "5' 34\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 18,
-				"title": "'r' үсгээр хувирах бусад авиа, бусад анхаарах зүйлс",
-				"video": "_HbMFFvzwx8",
-				"duration": "16' 14\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 19,
-				"title": "'-ed' дагаварын дуудлага",
-				"video": "k6VpqWIM9Io",
-				"duration": "4' 58\"",
-				"explanation": "Тайлбар"
-			}
-		]
-	},
-	"test": {
-		"id": 0,
-		"image": "english",
-		"time": "30 minutes",
-		"description": "Англи хэлний дуудлага авианы мэдлэгээ шалгаарай.",
-		"questions": [{
-				"id": 0,
-				"content": "<p>Every SwiftUI app has exactly one scene to which contains a view hierarchy.</p>",
-				"correctIndex": 1,
-				"answers": [
-					"true",
-					"false"
-				]
-			},
-			{
-				"id": 1,
-				"content": "<p>How can you customize the display and behaviour of a view in SwiftUI?</p>",
-				"correctIndex": 2,
-				"answers": [
-					"Change it in the storyboard",
-					"Conform it to the appropriate delegate protocol",
-					"Using modifiers",
-					"You can't"
-				]
-			},
-			{
-				"id": 2,
-				"content": "<p>Which of the following allows you to display a table?</p>",
-				"correctIndex": 3,
-				"answers": [
-					"VStack",
-					"HStack",
-					"ZStack",
-					"List"
-				]
-			},
-			{
-				"id": 3,
-				"content": "<p>You can define custom paths to create shapes in SwiftUI.</p>",
-				"correctIndex": 0,
-				"answers": [
-					"true",
-					"false"
-				]
-			},
-			{
-				"id": 4,
-				"content": "<p>Select the best answer.</p>",
-				"correctIndex": 3,
-				"answers": [
-					"You can add SwiftUI views to a storyboard-based app using hosting controllers",
-					"You can add UIKit views to a SwiftUI project using representable objects",
-					"SwiftUI and UIKit are separate, and shouldn't be integrated",
-					"Answers 1 and 2"
-				]
-			},
-			{
-				"id": 5,
-				"content": "<p>In SwiftUI, interfaces are created:</p>",
-				"correctIndex": 2,
-				"answers": [
-					"Procedurally",
-					"Dynamically",
-					"Declaratively",
-					"Eccentrically"
-				]
-			},
-			{
-				"id": 6,
-				"content": "<p>Prefixing a property wrapped property with $ will access its",
-				"correctIndex": 1,
-				"answers": [
-					"Wrapped value",
-					"Projected value",
-					"Financial value",
-					"That's invalid syntax"
-				]
-			}
-		]
-	}
-},
-{
-	"id": 2,
-	"category": "Солонгос хэл",
-	"content": {
-		"id": 0,
-		"image": "korean",
-		"time": "2 hours",
-		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
-		"lessons": [{
-				"id": 0,
-				"title": "Эхлэл",
-				"video": "7OYOoy4Y334",
-				"duration": "6' 38\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 1,
-				"title": "Эгшиг үсэг",
-				"video": "aDt_vRgtqu0",
-				"duration": "7' 16\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 2,
-				"title": "Гийгүүлэгч үсэг Г, Н, Д",
-				"video": "HpK6Er1W9Mw",
-				"duration": "6' 13\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 3,
-				"title": "Гийгүүлэгч үсэг Р/Л, М, Б, С, Н (хоолойн угийн)",
-				"video": "63dlsIXMN-c",
-				"duration": "7' 16\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 4,
-				"title": "Гийгүүлэгч үсэг Ж, Ч, К, Т, П, Х",
-				"video": "P72sBYvjFk8",
-				"duration": "8' 2\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 5,
-				"title": "Давхар гийгүүлэгч Г, Д, Б, С, Ж",
-				"video": "DW0iiKZcnic",
-				"duration": "7' 16\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 6,
-				"title": "Дэвсгэр үсэг",
-				"video": "kw62lqLQvjg",
-				"duration": "6' 13\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 7,
-				"title": "Нийлмэл дэвсгэр үсэг",
-				"video": "asyWF1_UaQU",
-				"duration": "5' 38\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 8,
-				"title": "Зөв бичих дараалал",
-				"video": "695ExGjYsrI",
-				"duration": "7' 55\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 9,
-				"title": "Тоо (1 - 100)",
-				"video": "_pv-kabLLAQ",
-				"duration": "13' 39\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 10,
-				"title": "Тоо (100 - 1 тэрбум",
-				"video": "rHALqgIQzNg",
-				"duration": "21' 26\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 11,
-				"title": "Мэндчилгээ",
-				"video": "I2K-ABxYaug",
-				"duration": "3' 43\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 12,
-				"title": "Дүрэм: -은 / -는",
-				"video": "EH9kYJH61mE",
-				"duration": "7' 9\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 13,
-				"title": "Дүрэм: -입니다 / -이예요 / -예요",
-				"video": "hCnt3yx3Qdc",
-				"duration": "8' 47\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 14,
-				"title": "Дүрэм: -입니까? / -이예요? / -예요?",
-				"video": "TJ_fT6bB1jI",
-				"duration": "6' 8\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 15,
-				"title": "Дүрэм: -이 / -가 아닙니다 / 아니에요",
-				"video": "Zq9akKWN2yY",
-				"duration": "5' 52\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 16,
-				"title": "Дүрэм: -이 / -가",
-				"video": "EH9kYJH61mE",
-				"duration": "9' 59\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 17,
-				"title": "Дүрэм: Үйл үг, тэмдэг нэрийн одоо цаг",
-				"video": "SfwM3R9Cg64",
-				"duration": "22' 1\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 18,
-				"title": "Дүрэм: Үйл үг, тэмдэг нэрийн өнгөрсөн цаг",
-				"video": "91AVv4pDx5c",
-				"duration": "10' 38\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 19,
-				"title": "Дүрэм: Үйл үгийн ирээдүй цагийн нөхцөл",
-				"video": "GMDBusgQuCU",
-				"duration": "9' 18\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 20,
-				"title": "Дүрэм: Заахын тийн ялгал",
-				"video": "bqEKJAtsyto",
-				"duration": "6' 22\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 21,
-				"title": "Дүрэм: Харьяалахын тийн ялгал",
-				"video": "5B9E9OOQ3K4",
-				"duration": "8' 19\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 22,
-				"title": "Дүрэм: Нэр үгийн өнгөрсөн цаг",
-				"video": "70iKT_k62ow",
-				"duration": "4' 44\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 23,
-				"title": "Дүрэм: 에서 / 에",
-				"video": "KpvVhjkkPu8",
-				"duration": "8' 18\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 24,
-				"title": "Дүрэм: Үйл үг, тэмдэг нэрийн одоо/өнгөрсөн цагийн асуух хэлбэр",
-				"video": "TzxsATq6CKA",
-				"duration": "17' 3\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 25,
-				"title": "Дүрэм: Үйл үгийн ирээдүй цагийн нөхцөл",
-				"video": "b8lTw-RcuN4",
-				"duration": "15' 29\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 26,
-				"title": "Дүрмийн бус үгс: 'ㅡ' 불규칙",
-				"video": "ujXM7acuxXk",
-				"duration": "11' 45\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 27,
-				"title": "Дүрмийн бус үгс: 'ㄷ' 불규칙",
-				"video": "lPog2diteAQ",
-				"duration": "11' 38\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 28,
-				"title": "Дүрмийн бус үгс: 'ㅂ' 불규칙",
-				"video": "xoA9QY_mJqU",
-				"duration": "13' 24\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 29,
-				"title": "Дүрэм: Үйл үг, тэмдэг нэрийн ирээдүй цагийн нөхцөл (Асуух)",
-				"video": "OVCZYrFvnAw",
-				"duration": "7' 47\"",
-				"explanation": "Тайлбар"
-			},
-			{
-				"id": 30,
-				"title": "Дүрэм: Өгөх, оршихын тийн ялгал",
-				"video": "5tBaCOefDWI",
-				"duration": "8' 50\"",
-				"explanation": "Тайлбар"
-			}
-		]
-	},
-	"test": {
-		"id": 0,
-		"image": "korean",
-		"time": "30 minutes",
-		"description": "Англи хэлний дуудлага авианы мэдлэгээ шалгаарай.",
-		"questions": [{
-				"id": 0,
-				"content": "<p>Every SwiftUI app has exactly one scene to which contains a view hierarchy.</p>",
-				"correctIndex": 1,
-				"answers": [
-					"true",
-					"false"
-				]
-			},
-			{
-				"id": 1,
-				"content": "<p>How can you customize the display and behaviour of a view in SwiftUI?</p>",
-				"correctIndex": 2,
-				"answers": [
-					"Change it in the storyboard",
-					"Conform it to the appropriate delegate protocol",
-					"Using modifiers",
-					"You can't"
-				]
-			},
-			{
-				"id": 2,
-				"content": "<p>Which of the following allows you to display a table?</p>",
-				"correctIndex": 3,
-				"answers": [
-					"VStack",
-					"HStack",
-					"ZStack",
-					"List"
-				]
-			},
-			{
-				"id": 3,
-				"content": "<p>You can define custom paths to create shapes in SwiftUI.</p>",
-				"correctIndex": 0,
-				"answers": [
-					"true",
-					"false"
-				]
-			},
-			{
-				"id": 4,
-				"content": "<p>Select the best answer.</p>",
-				"correctIndex": 3,
-				"answers": [
-					"You can add SwiftUI views to a storyboard-based app using hosting controllers",
-					"You can add UIKit views to a SwiftUI project using representable objects",
-					"SwiftUI and UIKit are separate, and shouldn't be integrated",
-					"Answers 1 and 2"
-				]
-			},
-			{
-				"id": 5,
-				"content": "<p>In SwiftUI, interfaces are created:</p>",
-				"correctIndex": 2,
-				"answers": [
-					"Procedurally",
-					"Dynamically",
-					"Declaratively",
-					"Eccentrically"
-				]
-			},
-			{
-				"id": 6,
-				"content": "<p>Prefixing a property wrapped property with $ will access its",
-				"correctIndex": 1,
-				"answers": [
-					"Wrapped value",
-					"Projected value",
-					"Financial value",
-					"That's invalid syntax"
-				]
-			}
-		]
-	}
+[
+    {
+        "id": 3,
+        "category": "Шатар 1-р Түвшин",
+        "paid": false,
+        "content": {
+            "id": 0,
+            "image": "chess",
+            "time": "1' 23\"",
+            "description": "Хаадын тоглоом сурцгаая",
+            "lessons": [
+                {
+                    "id": 0,
+                    "title": "Танилцуулга",
+                    "video": "Reoha1Bsiyw",
+                    "duration": "9' 18\"",
+                    "explanation": "Энэхүү танилцуулга хичээл дээр шатрын хөлөг ба шатрын дүрсүүдтэй танилцъя"
+                },
+                {
+                    "id": 1,
+                    "title": "Нүүдэл",
+                    "video": "1ikx9TQlcQM",
+                    "duration": "11' 52\"",
+                    "explanation": "Хүүнээс бусад бүх дүрсийн нүүдлийг харцгаая"
+                },
+                {
+                    "id": 2,
+                    "title": "Довтлох, идэх",
+                    "video": "5o7DlabVnfU",
+                    "duration": "8' 24\"",
+                    "explanation": "Довтолж улмаар идэх байдлыг сурцгаая"
+                },
+                {
+                    "id": 3,
+                    "title": "Шатрын хүү",
+                    "video": "-L6UmUPNmsQ",
+                    "duration": "7' 8\"",
+                    "explanation": "Хамгийн олон байдаг дүрс болох хүү нь сул боловч олон онцлоготой ба тоглолтын явцад хүчирхэгждэг дүрс юм"
+                },
+                {
+                    "id": 4,
+                    "title": "Хамгаалах",
+                    "video": "YunizxIXxlw",
+                    "duration": "11' 39\"",
+                    "explanation": "Довтолгоо байгаа бол хамгаалалт байгаа"
+                },
+                {
+                    "id": 5,
+                    "title": "Дунд C, Фермата, Педаль",
+                    "video": "uwyMq3KAucI",
+                    "duration": "3' 5\"",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 6,
+                    "title": "Дунд E",
+                    "video": "KkbmwnwRkF0",
+                    "duration": "1' 27\"",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 7,
+                    "title": "Дунд E-flat/D-sharp",
+                    "video": "9ErNXpUe5SU",
+                    "duration": "1' 36\"",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 8,
+                    "title": "Дунд F",
+                    "video": "VrHfi8eOqcs",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 9,
+                    "title": "Дунд C-sharp",
+                    "video": "cIZ5oo86eXc",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 10,
+                    "title": "Дунд F-sharp, G",
+                    "video": "NaDxPxrMzqU",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 11,
+                    "title": "D.C. al Fine, Хурууны дугаарлал, Ритардандо",
+                    "video": "cIxGuaVc2fU",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 12,
+                    "title": "Дунд B, Цаг хэмнэлийн тэмдэг",
+                    "video": "EZOnm016t20",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 13,
+                    "title": "A нот",
+                    "video": "lTKJ51yjIkg",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 14,
+                    "title": "Стаккато",
+                    "video": "vliaHEJ7MHk",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 15,
+                    "title": "F түлхүүрийн F нот",
+                    "video": "mfV6YaOGUY4",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 16,
+                    "title": "Динамик",
+                    "video": "smcnf4_-idI",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 17,
+                    "title": "Амралт",
+                    "video": "dAzxwMbxdEE",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 18,
+                    "title": "Цэгтэй дөрөвт-Наймт ритм",
+                    "video": "kb81i71g0ww",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 19,
+                    "title": "Соль мажор",
+                    "video": "kqS_7ktwbjQ",
+                    "duration": "17 minutes",
+                    "explanation": "Explanation"
+                }
+            ]
+    }
 }]
