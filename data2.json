@@ -46,109 +46,193 @@
                 },
                 {
                     "id": 5,
-                    "title": "Дунд C, Фермата, Педаль",
-                    "video": "uwyMq3KAucI",
-                    "duration": "3' 5\"",
-                    "explanation": "Explanation"
+                    "title": "Шалах",
+                    "video": "5uP6f1mkkLw",
+                    "duration": "17' 45\"",
+                    "explanation": "Эсрэг талын ноён руу довтлох"
                 },
                 {
                     "id": 6,
-                    "title": "Дунд E",
-                    "video": "KkbmwnwRkF0",
+                    "title": "Мадлах 1-р хэсэг",
+                    "video": "",
                     "duration": "1' 27\"",
                     "explanation": "Explanation"
                 },
                 {
                     "id": 7,
-                    "title": "Дунд E-flat/D-sharp",
-                    "video": "9ErNXpUe5SU",
+                    "title": "Мадлах 2-р хэсэг",
+                    "video": "",
                     "duration": "1' 36\"",
                     "explanation": "Explanation"
                 },
                 {
                     "id": 8,
-                    "title": "Дунд F",
-                    "video": "VrHfi8eOqcs",
-                    "duration": "17 minutes",
+                    "title": "Сэлгэх",
+                    "video": "1xeNMTTK0_Y",
+                    "duration": "16' 39\"",
                     "explanation": "Explanation"
                 },
                 {
                     "id": 9,
-                    "title": "Дунд C-sharp",
-                    "video": "cIZ5oo86eXc",
-                    "duration": "17 minutes",
+                    "title": "Ашигтай солилцоо",
+                    "video": "mS0zkf_l96g",
+                    "duration": "19' 47\"",
                     "explanation": "Explanation"
                 },
                 {
                     "id": 10,
-                    "title": "Дунд F-sharp, G",
-                    "video": "NaDxPxrMzqU",
-                    "duration": "17 minutes",
+                    "title": "Бод хөллөх",
+                    "video": "NogRyM2QCUs",
+                    "duration": "31' 5\"",
                     "explanation": "Explanation"
                 },
                 {
                     "id": 11,
-                    "title": "D.C. al Fine, Хурууны дугаарлал, Ритардандо",
-                    "video": "cIxGuaVc2fU",
-                    "duration": "17 minutes",
+                    "title": "Тэнцэх буюу ничья болох",
+                    "video": "2db5vNWCux0",
+                    "duration": "21' 11\"",
                     "explanation": "Explanation"
                 },
                 {
                     "id": 12,
-                    "title": "Дунд B, Цаг хэмнэлийн тэмдэг",
-                    "video": "EZOnm016t20",
-                    "duration": "17 minutes",
+                    "title": "Бэрсээр мадлах",
+                    "video": "xojTsRN-YwQ",
+                    "duration": "26' 28\"",
                     "explanation": "Explanation"
                 },
                 {
                     "id": 13,
-                    "title": "A нот",
-                    "video": "lTKJ51yjIkg",
-                    "duration": "17 minutes",
+                    "title": "Хүүгээр зөрж идэх",
+                    "video": "lhpmSfQfHq4",
+                    "duration": "13' 13\"",
                     "explanation": "Explanation"
                 },
                 {
                     "id": 14,
-                    "title": "Стаккато",
-                    "video": "vliaHEJ7MHk",
-                    "duration": "17 minutes",
-                    "explanation": "Explanation"
-                },
-                {
-                    "id": 15,
-                    "title": "F түлхүүрийн F нот",
-                    "video": "mfV6YaOGUY4",
-                    "duration": "17 minutes",
-                    "explanation": "Explanation"
-                },
-                {
-                    "id": 16,
-                    "title": "Динамик",
-                    "video": "smcnf4_-idI",
-                    "duration": "17 minutes",
-                    "explanation": "Explanation"
-                },
-                {
-                    "id": 17,
-                    "title": "Амралт",
-                    "video": "dAzxwMbxdEE",
-                    "duration": "17 minutes",
-                    "explanation": "Explanation"
-                },
-                {
-                    "id": 18,
-                    "title": "Цэгтэй дөрөвт-Наймт ритм",
-                    "video": "kb81i71g0ww",
-                    "duration": "17 minutes",
-                    "explanation": "Explanation"
-                },
-                {
-                    "id": 19,
-                    "title": "Соль мажор",
-                    "video": "kqS_7ktwbjQ",
-                    "duration": "17 minutes",
+                    "title": "Тэмдэглэгээ",
+                    "video": "gcPluL4L1uQ",
+                    "duration": "28' 53\"",
                     "explanation": "Explanation"
                 }
             ]
+        }
+    },
+    {
+        "id": 4,
+        "category": "Шатар 2-р Түвшин",
+        "paid": false,
+        "content": {
+            "id": 0,
+            "image": "chess",
+            "time": "1' 23\"",
+            "description": "Хаадын тоглоом үргэлжлүүлэн сурцгаая",
+            "lessons": [
+                {
+                    "id": 0,
+                    "title": "Танилцуулга",
+                    "video": "Reoha1Bsiyw",
+                    "duration": "9' 18\"",
+                    "explanation": "Энэхүү танилцуулга хичээл дээр шатрын хөлөг ба шатрын дүрсүүдтэй танилцъя"
+                },
+                {
+                    "id": 1,
+                    "title": "Нүүдэл",
+                    "video": "1ikx9TQlcQM",
+                    "duration": "11' 52\"",
+                    "explanation": "Хүүнээс бусад бүх дүрсийн нүүдлийг харцгаая"
+                },
+                {
+                    "id": 2,
+                    "title": "Довтлох, идэх",
+                    "video": "5o7DlabVnfU",
+                    "duration": "8' 24\"",
+                    "explanation": "Довтолж улмаар идэх байдлыг сурцгаая"
+                },
+                {
+                    "id": 3,
+                    "title": "Шатрын хүү",
+                    "video": "-L6UmUPNmsQ",
+                    "duration": "7' 8\"",
+                    "explanation": "Хамгийн олон байдаг дүрс болох хүү нь сул боловч олон онцлоготой ба тоглолтын явцад хүчирхэгждэг дүрс юм"
+                },
+                {
+                    "id": 4,
+                    "title": "Хамгаалах",
+                    "video": "YunizxIXxlw",
+                    "duration": "11' 39\"",
+                    "explanation": "Довтолгоо байгаа бол хамгаалалт байгаа"
+                },
+                {
+                    "id": 5,
+                    "title": "Шалах",
+                    "video": "5uP6f1mkkLw",
+                    "duration": "17' 45\"",
+                    "explanation": "Эсрэг талын ноён руу довтлох"
+                },
+                {
+                    "id": 6,
+                    "title": "Мадлах 1-р хэсэг",
+                    "video": "",
+                    "duration": "1' 27\"",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 7,
+                    "title": "Мадлах 2-р хэсэг",
+                    "video": "",
+                    "duration": "1' 36\"",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 8,
+                    "title": "Сэлгэх",
+                    "video": "1xeNMTTK0_Y",
+                    "duration": "16' 39\"",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 9,
+                    "title": "Ашигтай солилцоо",
+                    "video": "mS0zkf_l96g",
+                    "duration": "19' 47\"",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 10,
+                    "title": "Бод хөллөх",
+                    "video": "NogRyM2QCUs",
+                    "duration": "31' 5\"",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 11,
+                    "title": "Тэнцэх буюу ничья болох",
+                    "video": "2db5vNWCux0",
+                    "duration": "21' 11\"",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 12,
+                    "title": "Бэрсээр мадлах",
+                    "video": "xojTsRN-YwQ",
+                    "duration": "26' 28\"",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 13,
+                    "title": "Хүүгээр зөрж идэх",
+                    "video": "lhpmSfQfHq4",
+                    "duration": "13' 13\"",
+                    "explanation": "Explanation"
+                },
+                {
+                    "id": 14,
+                    "title": "Тэмдэглэгээ",
+                    "video": "gcPluL4L1uQ",
+                    "duration": "28' 53\"",
+                    "explanation": "Explanation"
+                }
+            ]
+        }
     }
-}]
+]
